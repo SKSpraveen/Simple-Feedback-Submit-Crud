@@ -1,4 +1,4 @@
-# Simple Feedback Submit Crud
+# Simple Feedback Submit Crud ( html , css , javaScript , php )
   
 ![Alt Text](https://github.com/SKSpraveen/Simple-Feedback-Submit-Crud/blob/main/feedback.jpg?raw=true)
 
